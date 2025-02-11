@@ -1,0 +1,120 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "destination": "Mumbai",
+      "travelBy": "Airplane",
+      "date": "25-07-2021",
+      "reservation": {
+        "id": 12,
+        "hotelName": "Jasta hotel",
+        "stayFrom": "26-07-2021",
+        "stayTo": "10-08-2021",
+        "totalCost": 16000
+      }
+    },
+    {
+      "id": 2,
+      "destination": "Delhi",
+      "travelBy": "Train",
+      "date": "20-08-2021",
+      "reservation": {
+        "id": 13,
+        "hotelName": "Delight Inn",
+        "stayFrom": "21-08-2021",
+        "stayTo": "25-08-2021",
+        "totalCost": 8000
+      }
+    },
+    {
+      "id": 3,
+      "destination": "Bangalore",
+      "travelBy": "Car",
+      "date": "05-09-2021"
+    },
+    {
+      "id": 4,
+      "destination": "Chennai",
+      "travelBy": "Airplane",
+      "date": "10-10-2021",
+      "reservation": {
+        "id": 15,
+        "hotelName": "Seaside Resort",
+        "stayFrom": "11-10-2021",
+        "stayTo": "18-10-2021",
+        "totalCost": 14000
+      }
+    },
+    {
+      "id": 5,
+      "destination": "Goa",
+      "travelBy": "Bus",
+      "date": "01-11-2021",
+      "reservation": {
+        "id": 16,
+        "hotelName": "Beach Paradise",
+        "stayFrom": "02-11-2021",
+        "stayTo": "08-11-2021",
+        "totalCost": 10000
+      }
+    },
+    {
+      "id": 6,
+      "destination": "Hyderabad",
+      "travelBy": "Train",
+      "date": "15-12-2021",
+      "reservation": {
+        "id": 17,
+        "hotelName": "City Lodge",
+        "stayFrom": "16-12-2021",
+        "stayTo": "20-12-2021",
+        "totalCost": 7000
+      }
+    },
+    {
+      "id": 7,
+      "destination": "Kolkata",
+      "travelBy": "Airplane",
+      "date": "05-01-2022"
+    },
+    {
+      "id": 8,
+      "destination": "Pune",
+      "travelBy": "Car",
+      "date": "20-02-2022",
+      "reservation": {
+        "id": 19,
+        "hotelName": "Urban Retreat",
+        "stayFrom": "21-02-2022",
+        "stayTo": "27-02-2022",
+        "totalCost": 11000
+      }
+    },
+    {
+      "id": 9,
+      "destination": "Jaipur",
+      "travelBy": "Train",
+      "date": "15-03-2022",
+      "reservation": {
+        "id": 20,
+        "hotelName": "Royal Stay",
+        "stayFrom": "16-03-2022",
+        "stayTo": "22-03-2022",
+        "totalCost": 9000
+      }
+    },
+    {
+      "id": 10,
+      "destination": "Ahmedabad",
+      "travelBy": "Airplane",
+      "date": "10-04-2022",
+      "reservation": {
+        "id": 21,
+        "hotelName": "City Comfort",
+        "stayFrom": "11-04-2022",
+        "stayTo": "18-04-2022",
+        "totalCost": 13000
+      }
+    }
+  ]
+}
